@@ -1,4 +1,4 @@
-# Overview
+## Overview
 
 This folder contains samples of external-facing visualizations I've made for collaborative projects during my PhD, including two graphical abstracts (published in journals or preprint servers) and two conceptual posters (now in the hallway for newcomers).
 
