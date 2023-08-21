@@ -9,7 +9,7 @@ There are three folders in this repository organized by content type, each with 
 ├── selected-visualizations
 └── selected-writings 
 ```
-If a file takes more than a few seconds to load, please refresh the page.
+From there, navigation is possible via the left side bar, or the top menu once a file is clicked. If it takes more than a few seconds to load, please refresh the page.
 
 ## My expertise
 ![](/tmp/gutbiome.png?raw=true "Optional Title")
